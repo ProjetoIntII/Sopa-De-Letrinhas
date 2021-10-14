@@ -10,6 +10,7 @@ Atividade guiada pelas Monitoras Giulia e Anita;
 -  Felipe de Moura Tayar 
 -  Joao Victor Moreira Vidal 
 
+![Captura de tela 2021-10-14 190731](https://user-images.githubusercontent.com/58158274/137406825-b3a65ba2-99cc-4014-b043-fe4bc7139812.png)
 
 
 Descrição:-Conjunto de letras-no mínimo 20 letras embaralhadas;
